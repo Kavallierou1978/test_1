@@ -1,0 +1,1 @@
+This is a readme file in order to show how you do not have to use the VIM editor when you make a commit.
